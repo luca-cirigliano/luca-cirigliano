@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Luca Cirigliano
-a Jr. Full-Stack Web developer 💻  🌱
-My Stack:
+a Jr.🌱 Full-Stack Web developer 
+
 <p align="center">My Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
