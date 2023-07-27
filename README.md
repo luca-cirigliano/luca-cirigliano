@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Luca Cirigliano
-a Jr.🌱 Full-Stack Web developer 
+🌱 nice to meet you!
 
 <p align="center">My Stack:</p>
 <p align="center">
@@ -22,5 +21,10 @@ a Jr.🌱 Full-Stack Web developer
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,vite,mysql,postman,php,laravel">
   </a>
 </p>
+<div align="center">
+<a href="https://www.linkedin.com/in/luca.cirigliano/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 
