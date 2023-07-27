@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">My Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,vite,mysql,postman,php,laravel">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,vite,mysql,php,laravel,wordpress">
   </a>
 </p>
 <div align="center">
