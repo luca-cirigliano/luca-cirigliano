@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 I'm Luca Cirigliano
 a Jr. Full-Stack Web developer 💻  🌱
 My Stack:
+<p align="center">My Stack:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,vite,mysql,postman,php,laravel">
   </a>
 </p>
 
